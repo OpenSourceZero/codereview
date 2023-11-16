@@ -1,2 +1,2 @@
 # codereview
-Smart Code Reviews powered by OpenAI
+Intelligent code reviews powered by OpenAI
